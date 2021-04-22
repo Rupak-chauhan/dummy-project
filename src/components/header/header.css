@@ -1,0 +1,10 @@
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    justify-items: right;
+    background-color: rgb(152, 206, 231);
+    height: 100px;
+  }
+  
